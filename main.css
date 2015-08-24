@@ -1,1 +1,49 @@
-/* Style Sheet */
+html { 
+  background: url(http://www.kanzenshuu.com/wp-content/uploads/2013/10/jstars_stage-02_3.jpg?ff5319) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.playArea {
+    height: 100px;
+/*    border: 1px solid black; */
+    display: inline-block
+}
+
+#playerOneDiv {
+    width: 10%;
+}
+
+#playerTwoDiv {
+    width: 10%;
+}
+
+#track {
+    width: 78%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*camilos stuff*/
+.paint {
+    background-color: red;
+}
+
+td {
+    height: 25px;
+    width: 25px;
+/*    border: 1px solid black;*/
+}
+
+
